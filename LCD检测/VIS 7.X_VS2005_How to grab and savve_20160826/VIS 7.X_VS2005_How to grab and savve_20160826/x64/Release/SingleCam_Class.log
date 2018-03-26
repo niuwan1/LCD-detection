@@ -1,0 +1,22 @@
+﻿生成启动时间为 2016/8/29 17:31:38。
+     1>项目“D:\VIS 7.X_VS2005_How to grab and savve_20160826\VIS 7.X_VS2005_How to grab and savve_20160826\SingleCam_Class.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Vieworks Imaging Solution 7\\sdk\cpp\include" /I.\OpenCV\opencv /I.\OpenCV /Zi /nologo /W1 /WX- /O2 /D NDEBUG /D _WINDOWS /D _CRT_SECURE_NO_DEPRECATE /D _CRT_NON_CONFORMING_SWPRINTFS /D WIN64 /D _MBCS /GF- /Gm- /EHsc /MT /GS /Gy- /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc80.pdb" /Gd /TP /errorReport:prompt SingleCam_ClassDlg.cpp
+         SingleCam_ClassDlg.cpp
+     1>D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VIS 7.X_VS2005_How to grab and savve_20160826\VIS 7.X_VS2005_How to grab and savve_20160826\x64\Release\SingleCam_Class.exe" /NOLOGO /LIBPATH:"C:\Vieworks Imaging Solution 7\\SDK\CPP\LIB\x64" VwGigE.V7.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VIS 7.X_VS2005_How to grab and savve_20160826\VIS 7.X_VS2005_How to grab and savve_20160826\x64\Release\SingleCam_Class.lib" /MACHINE:X64 x64\Release\SingleCam_Class.res
+         x64\Release\SerialPort.obj
+         x64\Release\SingleCam_Class.obj
+         x64\Release\SingleCam_ClassDlg.obj
+         x64\Release\StdAfx.obj
+         x64\Release\VWGigECamera_V6.obj
+         x64\Release\VwResourceType.obj
+         SingleCam_Class.vcxproj -> D:\VIS 7.X_VS2005_How to grab and savve_20160826\VIS 7.X_VS2005_How to grab and savve_20160826\x64\Release\SingleCam_Class.exe
+     1>已完成生成项目“D:\VIS 7.X_VS2005_How to grab and savve_20160826\VIS 7.X_VS2005_How to grab and savve_20160826\SingleCam_Class.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.18
